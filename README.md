@@ -1,5 +1,7 @@
 # Geometry Wars Clone
 
+![ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/e68beda9-714e-45fe-a707-ffbfe9ac2ce6)
+
 This is a clone of the popular Geometry Wars game, built using the **Simple and Fast Multimedia Library (SFML)** in C++.
 The game features fast-paced action, colorful geometric enemies, and dynamic visuals.
 
