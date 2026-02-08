@@ -22,6 +22,6 @@ The game features fast-paced action, colorful geometric enemies, and dynamic vis
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/geometry-wars-clone.git
+   git clone https://github.com/mslmyilmaz5/geometry-wars-clone.git
    cd geometry-wars-clone
 2. tpye 'make run'
